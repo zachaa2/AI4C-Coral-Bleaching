@@ -1,0 +1,505 @@
+{
+    "data": [
+        {
+            "name": "Ofav2_T1_22.JPG",
+            "labels": [
+                "SL-ERE",
+                "A-TURF",
+                "CL-PMOU",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO",
+                "SL-ENC"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "Ofav2_T1_24.JPG",
+            "labels": [
+                "SL-ERE",
+                "CL-MIL",
+                "A-TURF",
+                "SL-MAS",
+                "CL-PFIN",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "Ofav2_T1_3.JPG",
+            "labels": [
+                "SL-ERE",
+                "A-DICT",
+                "M-POOR",
+                "A-TURF",
+                "SL-MAS",
+                "CL-PMOU",
+                "OI-ECAR",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "Ofav2_T2_6.JPG",
+            "labels": [
+                "A-DICT",
+                "CL-MIL",
+                "A-TURF",
+                "CI-PMOU",
+                "B-DSHE",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "bleached",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "Ofav2_T3_12.JPG",
+            "labels": [
+                "A-DICT",
+                "SL-ERE",
+                "CL-MIL",
+                "A-TURF",
+                "CL-PMOU",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "Ofav2_T3_6.JPG",
+            "labels": [
+                "B-DCOR",
+                "M-POOR",
+                "A-TURF",
+                "SL-MAS",
+                "A-CCA",
+                "CL-PMOU",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "Ofav2_T4_23.JPG",
+            "labels": [
+                "A-DICT",
+                "CI-AAGA",
+                "M-POOR",
+                "A-TURF",
+                "A-TSED",
+                "A-CCA"
+            ],
+            "date": "2022-05-01",
+            "status": "bleached",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "Ofav2_T4_25.JPG",
+            "labels": [
+                "A-DICT",
+                "A-HTUN",
+                "CL-MIL",
+                "A-TURF",
+                "OI-PCAR",
+                "A-CCA",
+                "A-TSED",
+                "CL-ORB",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "Ofav2_T4_7.JPG",
+            "labels": [
+                "SL-ERE",
+                "M-POOR",
+                "OI-OCTO",
+                "A-TURF",
+                "SL-MAS",
+                "OI-ECAR",
+                "A-TSED",
+                "CL-ORB",
+                "SL-ENC"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "Ofav2_T4_8.JPG",
+            "labels": [
+                "A-ACA",
+                "CB-ORB",
+                "A-TURF",
+                "SL-MAS",
+                "OI-ECAR",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "bleached",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "Ofav2_T5_22.JPG",
+            "labels": [
+                "A-DICT",
+                "A-TURF",
+                "B-DMIX",
+                "CL-PMOU",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T1_17.JPG",
+            "labels": [
+                "SL-ERE",
+                "A-DICT",
+                "M-POOR",
+                "A-TURF",
+                "B-DMIX",
+                "CL-PMOU",
+                "OI-ECAR",
+                "A-TSED",
+                "OI-OCTO",
+                "SL-ENC"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T2_14.JPG",
+            "labels": [
+                "A-TURF",
+                "B-DMIX",
+                "CI-PMOU",
+                "CL-SINT",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "bleached",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T2_21.JPG",
+            "labels": [
+                "A-DICT",
+                "CL-SSID",
+                "M-POOR",
+                "OI-PCAR",
+                "A-TURF",
+                "SL-MAS",
+                "OI-ROSC",
+                "OI-ECAR",
+                "SL-CUP",
+                "A-TSED",
+                "CL-ORB",
+                "A-CCA",
+                "SL-ENC"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T2_22.JPG",
+            "labels": [
+                "SL-ERE",
+                "A-DICT",
+                "OI-PCAR",
+                "A-TURF",
+                "CL-MIL",
+                "OI-ECAR",
+                "CD-UNK",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "dead",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T2_25.JPG",
+            "labels": [
+                "A-DICT",
+                "OI-PCAR",
+                "A-TURF",
+                "SL-MAS",
+                "A-CCA",
+                "A-TSED",
+                "CL-ORB",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T3_1.JPG",
+            "labels": [
+                "A-DICT",
+                "M-POOR",
+                "CL-MIL",
+                "A-TURF",
+                "SL-MAS",
+                "B-DMIX",
+                "CL-PMOU",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T3_18.JPG",
+            "labels": [
+                "A-DICT",
+                "SL-ERE",
+                "OI-TUNI-C",
+                "A-TURF",
+                "B-DMIX",
+                "CL-PMOU",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T3_19.JPG",
+            "labels": [
+                "A-DICT",
+                "A-HTUN",
+                "SL-ERE",
+                "A-ACA",
+                "CI-AAGA",
+                "A-TURF",
+                "SL-MAS",
+                "OI-PCAR",
+                "A-TSED",
+                "OI-OCTO",
+                "SL-ENC"
+            ],
+            "date": "2022-05-01",
+            "status": "bleached",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T3_3.JPG",
+            "labels": [
+                "A-DICT",
+                "SL-ERE",
+                "M-POOR",
+                "A-TURF",
+                "SL-MAS",
+                "CL-PMOU",
+                "OI-ECAR",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO",
+                "SL-ENC"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T3_7.JPG",
+            "labels": [
+                "SL-ERE",
+                "A-DICT",
+                "A-TURF",
+                "SL-MAS",
+                "CL-PMOU",
+                "OI-ECAR",
+                "A-TSED",
+                "OI-OCTO",
+                "SL-ENC"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T4_20.JPG",
+            "labels": [
+                "SL-ERE",
+                "A-DICT",
+                "A-TURF",
+                "B-DMIX",
+                "CD-MIL",
+                "OI-ECAR",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "dead",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T4_21.JPG",
+            "labels": [
+                "A-DICT",
+                "A-ACA",
+                "CL-MIL",
+                "A-TURF",
+                "CL-PMOU",
+                "M-UNKN",
+                "CL-SINT",
+                "OI-ECAR",
+                "A-TSED",
+                "OI-OCTO",
+                "SL-ENC"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T4_3.JPG",
+            "labels": [
+                "SL-ERE",
+                "A-DICT",
+                "A-TURF",
+                "SL-MAS",
+                "CL-PMOU",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T4_7.JPG",
+            "labels": [
+                "A-DICT",
+                "SL-ERE",
+                "M-POOR",
+                "CI-AAGA",
+                "A-TURF",
+                "B-DMIX",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "bleached",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T5_23.JPG",
+            "labels": [
+                "A-DICT",
+                "CL-MIL",
+                "A-TURF",
+                "B-DMIX",
+                "CL-PMOU",
+                "OI-ECAR",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO",
+                "SL-ENC"
+            ],
+            "date": "2022-05-01",
+            "status": "healthy",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T5_4.JPG",
+            "labels": [
+                "SL-ERE",
+                "M-POOR",
+                "A-TURF",
+                "SL-MAS",
+                "B-DMIX",
+                "CD-UNK",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO",
+                "SL-ENC"
+            ],
+            "date": "2022-05-01",
+            "status": "dead",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T5_7.JPG",
+            "labels": [
+                "A-DICT",
+                "A-ACA",
+                "M-POOR",
+                "A-TURF",
+                "CL-MIL",
+                "OI-OCTO",
+                "CI-AAGA",
+                "B-SAND",
+                "A-TSED",
+                "SL-ENC"
+            ],
+            "date": "2022-05-01",
+            "status": "bleached",
+            "location": "Biscayne Bay"
+        },
+        {
+            "name": "OfavB_T5_8.JPG",
+            "labels": [
+                "A-DICT",
+                "B-DCOR",
+                "A-TURF",
+                "CD-UNK",
+                "B-SAND",
+                "A-TSED",
+                "OI-OCTO"
+            ],
+            "date": "2022-05-01",
+            "status": "dead",
+            "location": "Biscayne Bay"
+        }
+    ],
+    "info": {
+        "total_images": 260,
+        "first_image": "https://coralnet.ucsd.edu/image/2499910/view/",
+        "status_counts": {
+            "healthy": 18,
+            "bleached": 7,
+            "dead": 4
+        }
+    }
+}
