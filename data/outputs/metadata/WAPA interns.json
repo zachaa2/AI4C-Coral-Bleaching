@@ -1,0 +1,3334 @@
+{
+    "data": [
+        {
+            "name": "2021-05-27-ASAN-A-T1 11.0-A (P5271397).JPG",
+            "labels": [
+                "MALG",
+                "PMAS",
+                "SAND",
+                "HOLO",
+                "DEAD",
+                "RUBB",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T2 11.5-B (P5271350).JPG",
+            "labels": [
+                "DEAD",
+                "MALG",
+                "SAND",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T2 14.0-A (P5271302).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "SAND",
+                "DEAD",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T3 11.0-A (P5270993).JPG",
+            "labels": [
+                "MALG",
+                "DYSI",
+                "SAND",
+                "DEAD",
+                "RUBB",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T3 19.0-A (P5271009).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "SAND",
+                "DEAD",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T3 21.0-A (P5271013).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "SAND",
+                "DEAD",
+                "RUBB",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T3 24.0-A (P5271019).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "SAND",
+                "DEAD",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T4 0.5-B (P5271170).JPG",
+            "labels": [
+                "MALG",
+                "DYSI",
+                "SAND",
+                "DEAD",
+                "POSP",
+                "CYAN"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T4 16.5-B (P5271138).JPG",
+            "labels": [
+                "DEAD",
+                "MALG",
+                "SAND",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T4 17.5-B (P5271136).JPG",
+            "labels": [
+                "MALG",
+                "PMAS",
+                "SAND",
+                "DEAD",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T4 21.5-B (P5271128).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "SAND",
+                "DEAD",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T4 3.0-A (P5271078).JPG",
+            "labels": [
+                "MALG",
+                "LPUR",
+                "SAND",
+                "HOLO",
+                "DEAD",
+                "POSP",
+                "CYAN"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T5 1.0-A (P5271175).JPG",
+            "labels": [
+                "MALG",
+                "SAND",
+                "DEAD",
+                "RUBB",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T5 14.0-A (P5271201).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "DYSI",
+                "SAND",
+                "DEAD",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T5 16.5-B (P5271239).JPG",
+            "labels": [
+                "SINU",
+                "SAND",
+                "DEAD",
+                "RUBB",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-A-T5 18.5-B (P5271235).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "SAND",
+                "DEAD",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T1 9.5-B (P5270847).JPG",
+            "labels": [
+                "MALG",
+                "HALI",
+                "DEAD",
+                "TYDE",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T2 3.5-B (P5270961).JPG",
+            "labels": [
+                "PDAM",
+                "NOID",
+                "MALG",
+                "DYSI",
+                "GRET-BL",
+                "SAND",
+                "HALI",
+                "PCYL",
+                "SARU",
+                "DEAD",
+                "RUBB",
+                "REKI",
+                "PRUS",
+                "POSP",
+                "CYAN"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T2 4.5-B (P5270959).JPG",
+            "labels": [
+                "PRUS-BL",
+                "MALG",
+                "AMPH",
+                "HALI",
+                "DEAD",
+                "RUBB",
+                "REKI",
+                "PRUS",
+                "POSP",
+                "CYAN"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T2 9.5-B (P5270949).JPG",
+            "labels": [
+                "MALG",
+                "HALI",
+                "PCYL",
+                "DEAD",
+                "PRUS",
+                "POSP",
+                "CYAN"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T3 19.5-B (P5270524).JPG",
+            "labels": [
+                "SINU",
+                "PMAS",
+                "SAND",
+                "PCYL",
+                "POSP",
+                "DEAD",
+                "PRUS"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T3 3.5-B (P5270556).JPG",
+            "labels": [
+                "MALG",
+                "HALI",
+                "PCYL",
+                "DEAD",
+                "RUBB",
+                "POSP",
+                "CYAN"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T3 4.5-B (P5270554).JPG",
+            "labels": [
+                "MALG",
+                "HALI",
+                "PCYL",
+                "POSP",
+                "DEAD",
+                "PRUS"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T3 5.5-B (P5270552).JPG",
+            "labels": [
+                "PRUS-BL",
+                "MALG",
+                "NOID",
+                "PMAS",
+                "SAND",
+                "HALI",
+                "CORA-BL",
+                "PCYL",
+                "POSP",
+                "DEAD",
+                "PRUS"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T4 10.0-A (P5270585).JPG",
+            "labels": [
+                "PDAM",
+                "MALG",
+                "PMAS",
+                "PVAR",
+                "WORM",
+                "CORA",
+                "DEAD",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T4 7.0-A (P5270579).JPG",
+            "labels": [
+                "MALG",
+                "NOID",
+                "SAND",
+                "HALI",
+                "PCYL",
+                "DEAD",
+                "RUBB",
+                "POSP",
+                "CYAN"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T4 8.5-B (P5270647).JPG",
+            "labels": [
+                "MALG",
+                "PMAS",
+                "DYSI",
+                "SAND",
+                "PCYL",
+                "DEAD",
+                "RUBB",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T4 9.0-A (P5270583).JPG",
+            "labels": [
+                "PDAM",
+                "NOID",
+                "MALG",
+                "PMAS",
+                "AMPH",
+                "GRET",
+                "DEAD",
+                "REKI",
+                "POSP",
+                "CYAN"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T5 2.5-B (P5270760).JPG",
+            "labels": [
+                "MALG",
+                "HALI",
+                "PCYL",
+                "DEAD",
+                "POSP",
+                "LILA"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-05-27-ASAN-B-T5 21.5-B (P5270722).JPG",
+            "labels": [
+                "MALG",
+                "PMAS",
+                "HALI",
+                "PCYL",
+                "DEAD",
+                "POSP"
+            ],
+            "date": "2021-05-27",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-A-T1 11.5-B (PB061308).JPG",
+            "labels": [
+                "MALG",
+                "DICT",
+                "SINU",
+                "APUL-BL",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-A-T1 19.0-A (PB061272).JPG",
+            "labels": [
+                "PDAM",
+                "MALG",
+                "SINU",
+                "PMAS",
+                "PADN",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "POSP"
+            ],
+            "date": "2021-11-06",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-A-T2 10.5-B (PB061210).JPG",
+            "labels": [
+                "PDAM",
+                "MALG",
+                "APUL-BL",
+                "AMUR",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-A-T2 19.0-A (PB061171).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-A-T2 23.5-B (PB061184).JPG",
+            "labels": [
+                "MALG",
+                "DICT",
+                "PMAS",
+                "AMPH",
+                "PADN",
+                "SAND",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "POSP"
+            ],
+            "date": "2021-11-06",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-A-T2 7.5-B (PB061216).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-A-T3 14.0-A (PB061058).JPG",
+            "labels": [
+                "MALG",
+                "DICT",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-A-T3 20.0-A (PB061070).JPG",
+            "labels": [
+                "MALG",
+                "DICT",
+                "SINU",
+                "PADN",
+                "AMUR",
+                "DEST",
+                "ASTA",
+                "CHFR",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-A-T4 19.5-B (PB060989).JPG",
+            "labels": [
+                "MALG",
+                "PMAS",
+                "PADN",
+                "SAND",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "POSP"
+            ],
+            "date": "2021-11-06",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T1 10.5-B (PB065381).JPG",
+            "labels": [
+                "MALG",
+                "PADN",
+                "AMUR",
+                "HALI",
+                "DEST",
+                "ASTA",
+                "DICT",
+                "PCYL-BL",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T1 13.0-A (PB065330).JPG",
+            "labels": [
+                "MALG",
+                "PADN",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DICT",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T1 14.5-B (PB065373).JPG",
+            "labels": [
+                "MALG",
+                "PADN",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T1 8.0-A (PB065319).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "PADN",
+                "AMUR",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DICT",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T2 0.5-B (PB065299).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DICT",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T2 10.0-A (PB065222).JPG",
+            "labels": [
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T2 15.5-B (PB065270).JPG",
+            "labels": [
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T2 16.0-A (PB065234).JPG",
+            "labels": [
+                "MALG",
+                "DICT",
+                "PADN",
+                "AMUR",
+                "TAPE",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T2 16.5-B (PB065268).JPG",
+            "labels": [
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T2 17.0-A (PB065236).JPG",
+            "labels": [
+                "MALG",
+                "DICT",
+                "PADN",
+                "AMUR",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T2 4.0-A (PB065210).JPG",
+            "labels": [
+                "MALG",
+                "AMUR",
+                "HALI",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T2 5.0-A (PB065212).JPG",
+            "labels": [
+                "MALG",
+                "PADN",
+                "AMUR",
+                "HALI",
+                "APUL",
+                "DEST",
+                "DICT",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T2 5.5-B (PB065290).JPG",
+            "labels": [
+                "NOID",
+                "MALG",
+                "DICT",
+                "PADN",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T2 6.0-A (PB065214).JPG",
+            "labels": [
+                "MALG",
+                "DICT",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T2 6.5-B (PB065287).JPG",
+            "labels": [
+                "MALG",
+                "DICT",
+                "PADN",
+                "HALI",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "PCYL-BL",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T2 7.5-B (PB065286).JPG",
+            "labels": [
+                "PDAM",
+                "MALG",
+                "PADN",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "POSP"
+            ],
+            "date": "2021-11-06",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T3 7.5-B (PB065185).JPG",
+            "labels": [
+                "MALG",
+                "AMUR",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T4 12.5-B (PB065074).JPG",
+            "labels": [
+                "MALG",
+                "DICT",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T4 3.5-B (PB065092).JPG",
+            "labels": [
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DICT",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T5 11.5-B (PB064975).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "APUL-BL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "PCYL-BL",
+                "RUBB"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T5 15.0-A (PB064929).JPG",
+            "labels": [
+                "PDAM",
+                "MALG",
+                "HALI",
+                "PCYL",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "PCYL-BL",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T5 22.0-A (PB064943).JPG",
+            "labels": [
+                "MALG",
+                "DICT",
+                "PADN",
+                "AMUR",
+                "PCYL",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "PCYL-BL",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-06-AGAT-B-T5 5.5-B (PB064987).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "AMPH",
+                "PADN",
+                "AMUR",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-11-06",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T1 0.5-B (PB070507).JPG",
+            "labels": [
+                "MALG",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "PCYL-BL",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T2 0.5-B (PB070404).JPG",
+            "labels": [
+                "PRUS-BL",
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "APUL",
+                "DEST",
+                "PDEC",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T2 19.0-A (PB070344).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "APUL-BL",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "PCYL-BL",
+                "CYAN"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T2 7.5-B (PB070390).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T3 0.5-B (PB070303).JPG",
+            "labels": [
+                "MALG",
+                "PMAS",
+                "SAND",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T3 11.5-B (PB070281).JPG",
+            "labels": [
+                "SINU",
+                "AMUR",
+                "SAND",
+                "CORA-BL",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T3 14.5-B (PB070275).JPG",
+            "labels": [
+                "APUL-BL",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T3 15.0-A (PB070235).JPG",
+            "labels": [
+                "APUL-BL",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T3 18.0-A (PB070241).JPG",
+            "labels": [
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T3 19.0-A (PB070243).JPG",
+            "labels": [
+                "APUL-BL",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T3 7.0-A (PB070219).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T3 9.0-A (PB070223).JPG",
+            "labels": [
+                "MALG",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T3 9.5-B (PB070285).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "AMUR",
+                "APUL",
+                "DEST",
+                "ASTA"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T4 0.5-B (PB070202).JPG",
+            "labels": [
+                "APUL-BL",
+                "NOID",
+                "AMUR",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T4 11.5-B (PB070180).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T4 12.0-A (PB070128).JPG",
+            "labels": [
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T4 2.5-B (PB070198).JPG",
+            "labels": [
+                "APUL-BL",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T5 0.5-B (PB070100).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T5 17.0-A (PB070038).JPG",
+            "labels": [
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T5 4.0-A (PB070011).JPG",
+            "labels": [
+                "MALG",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-07-ADELUP-B-T5 8.0-A (PB070019).JPG",
+            "labels": [
+                "NOID",
+                "SINU",
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "APUL",
+                "DEST",
+                "ASTA"
+            ],
+            "date": "2021-11-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-20-ADELUP-A-T3 11.0-A (PB200735).JPG",
+            "labels": [
+                "BRCA",
+                "MALG",
+                "PADN",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "POSP"
+            ],
+            "date": "2021-11-20",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-20-ADELUP-A-T4 22.5-B (PB200867).JPG",
+            "labels": [
+                "MALG",
+                "PMAS",
+                "PADN",
+                "SAND",
+                "APUL",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-20",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-20-ADELUP-A-T4 24.0-A (PB200862).JPG",
+            "labels": [
+                "MALG",
+                "DICT",
+                "PADN",
+                "AMUR",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-20",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-20-ADELUP-A-T5 16.0-A (PB200943).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "AMUR",
+                "HALI",
+                "APUL",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-11-20",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2021-11-20-ADELUP-A-T5 7.0-A (PB200926).JPG",
+            "labels": [
+                "MALG",
+                "SINU",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-11-20",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER AOCO 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "ASTA-BL",
+                "NOID",
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER AOCO 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "PDEC",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER AOCO 2020-08-07-ADELUP-B-T5 20.0-A (P8072897).JPG",
+            "labels": [
+                "APUL-BL",
+                "NOID",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER AOCO 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "REST",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER AOCO 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER AOCO 2020-08-10-AGAT-B-T5 0.5-B (P8104054).JPG",
+            "labels": [
+                "MALG",
+                "CARA",
+                "SAND",
+                "TAPE",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER ASWA 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "REST",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER ASWA 2020-08-10-AGAT-A-T1 21.0-A (P8103009).JPG",
+            "labels": [
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER ASWA 2020-08-10-AGAT-B-T5 0.5-B (P8104054).JPG",
+            "labels": [
+                "MALG",
+                "TAPE",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CHAM 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "DEST",
+                "SARU",
+                "CORA"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CHAM 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "APUL",
+                "SARU",
+                "DICT",
+                "HCOE",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CHAM 2020-08-10-AGAT-A-T1 21.0-A (P8103009).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "SARU",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CHAM 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "AMUR",
+                "REST",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "SARU"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CHAM 2020-08-10-AGAT-B-T4 2.0-A (P8103846).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "AMUR",
+                "REST",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "SARU",
+                "DICT"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CKIL 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CKIL 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "PDEC",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CKIL 2020-08-07-ADELUP-B-T3 9.5-B (P8072722).JPG",
+            "labels": [
+                "APUL-BL",
+                "REST",
+                "APUL",
+                "DEST",
+                "CYAN"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CKIL 2020-08-07-ADELUP-B-T5 20.0-A (P8072897).JPG",
+            "labels": [
+                "APUL-BL",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CKIL 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "PADN",
+                "REST",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CKIL 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "ASTA-BL",
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CKIL 2020-08-10-AGAT-B-T4 2.0-A (P8103846).JPG",
+            "labels": [
+                "ASTA-BL",
+                "MALG",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CKIL 2020-08-10-AGAT-B-T5 0.5-B (P8104054).JPG",
+            "labels": [
+                "MALG",
+                "AMUR",
+                "CARA",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CKIL 2020-08-10-AGAT-B-T5 1.5-B (P8104052).JPG",
+            "labels": [
+                "MALG",
+                "AMUR",
+                "CARA",
+                "SAND",
+                "HALI",
+                "PCYL",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "PCYL-BL",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER CKIL 2020-08-10-AGAT-B-T5 5.5-B (P8104044).JPG",
+            "labels": [
+                "PADN",
+                "AMUR",
+                "APUL",
+                "DEST",
+                "CHFR",
+                "ASTA",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EMUL 2020-06-23-ADELUP-A-T1 15.0-A (P6230529).JPG",
+            "labels": [
+                "PDEC-BL",
+                "MALG",
+                "AMUR-BL",
+                "SAND",
+                "HALI",
+                "DEST",
+                "SARU",
+                "DEAD",
+                "RUBB",
+                "CYAN"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EMUL 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "ASTA-BL",
+                "MALG",
+                "APUL-BL",
+                "NOID",
+                "PADN",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EMUL 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "ASTA-BL",
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "PDEC",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EMUL 2020-08-07-ADELUP-B-T5 20.0-A (P8072897).JPG",
+            "labels": [
+                "APUL-BL",
+                "NOID",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EMUL 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "REST",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EMUL 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EMUL 2020-08-10-AGAT-B-T5 0.5-B (P8104054).JPG",
+            "labels": [
+                "MALG",
+                "CARA",
+                "SAND",
+                "TAPE",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EVAU 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "ASTA-BL",
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EVAU 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "PDEC",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EVAU 2020-06-23-ADELUP-A-T5 24.0-A (P6230984).JPG",
+            "labels": [
+                "PDEC-BL",
+                "MALG",
+                "PADN",
+                "SAND",
+                "PDEC",
+                "HAMA",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EVAU 2020-08-07-ADELUP-B-T3 9.5-B (P8072722).JPG",
+            "labels": [
+                "APUL-BL",
+                "REST",
+                "APUL",
+                "DEST",
+                "CYAN"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EVAU 2020-08-07-ADELUP-B-T5 20.0-A (P8072897).JPG",
+            "labels": [
+                "APUL-BL",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EVAU 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "REST",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EVAU 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "ASTA-BL",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "REKI",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EVAU 2020-08-10-AGAT-B-T5 0.5-B (P8104054).JPG",
+            "labels": [
+                "ASTA-BL",
+                "MALG",
+                "APUL-BL",
+                "TAPE",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "REKI",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER EVAU 2020-08-10-AGAT-B-T5 1.5-B (P8104052).JPG",
+            "labels": [
+                "MALG",
+                "AMUR",
+                "TAPE",
+                "SAND",
+                "HALI",
+                "PCYL",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "PCYL-BL",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER KTAN 2020-06-23-ADELUP-A-T1 15.0-A (P6230529).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "NOID",
+                "CARA",
+                "SAND",
+                "HALI",
+                "DEST",
+                "HAMA",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER KTAN 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "ASTA-BL",
+                "MALG",
+                "NOID",
+                "APUL-BL",
+                "PADN",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER KTAN 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "DICT",
+                "PADN",
+                "SAND",
+                "DEST",
+                "PDEC",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER KTAN 2020-08-07-ADELUP-B-T3 9.5-B (P8072722).JPG",
+            "labels": [
+                "NOID",
+                "APUL-BL",
+                "REST",
+                "APUL",
+                "DEST"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER KTAN 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "REST",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER KTAN 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MAGA 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "NOID",
+                "PADN",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MAGA 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "PDEC",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MAGA 2020-07-24-ASAN-B-T2 24.0-A (P7240177).JPG",
+            "labels": [
+                "DEAD",
+                "MALG",
+                "PRUS",
+                "POSP"
+            ],
+            "date": "2021-09-01",
+            "status": "healthy",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MAGA 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MAGA 2020-08-10-AGAT-A-T1 7.0-A (P8102982).JPG",
+            "labels": [
+                "MALG",
+                "PMAS",
+                "AMUR",
+                "AMUR-BL",
+                "SAND",
+                "APUL",
+                "DEST",
+                "SARU",
+                "DEAD",
+                "CYAN"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MAGA 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MDIM 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "NOID",
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MDIM 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "NOID",
+                "PADN",
+                "SAND",
+                "DEST",
+                "PDEC",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MDIM 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MDIM 2020-08-10-AGAT-B-T4 2.0-A (P8103846).JPG",
+            "labels": [
+                "ASTA-BL",
+                "APUL-BL",
+                "MALG",
+                "NOID",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "CRCA",
+                "DEST",
+                "ASTA",
+                "RUBB",
+                "CYAN"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MOVA 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "NOID",
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MOVA 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "PDIV",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MOVA 2020-08-07-ADELUP-B-T5 20.0-A (P8072897).JPG",
+            "labels": [
+                "APUL-BL",
+                "NOID",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MOVA 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "REST",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MOVA 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MOVA 2020-08-10-AGAT-B-T5 0.5-B (P8104054).JPG",
+            "labels": [
+                "MALG",
+                "CARA",
+                "SAND",
+                "TAPE",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MSHR 2020-06-23-ADELUP-A-T1 15.0-A (P6230529).JPG",
+            "labels": [
+                "MALG",
+                "NOID",
+                "AMUR-BL",
+                "LPUR",
+                "SAND",
+                "HALI",
+                "DEST",
+                "SARU",
+                "HAMA",
+                "DEAD",
+                "BOOD",
+                "SPOG",
+                "RUBB",
+                "CYAN"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MSHR 2020-06-23-ADELUP-A-T5 16.0-A (P6230968).JPG",
+            "labels": [
+                "ASTA-BL",
+                "PDEC-BL",
+                "PADN",
+                "REST",
+                "TAPE",
+                "DEST",
+                "DEAD",
+                "SARG"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MSHR 2020-08-07-ADELUP-B-T5 20.0-A (P8072897).JPG",
+            "labels": [
+                "APUL-BL",
+                "NOID",
+                "REST",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MSHR 2020-08-07-ADELUP-B-T5 21.5-B (P8072923).JPG",
+            "labels": [
+                "NOID",
+                "APUL-BL",
+                "APUL",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MSHR 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "REST",
+                "APUL",
+                "DEST",
+                "SARU",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MSHR 2020-08-10-AGAT-A-T1 21.0-A (P8103009).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "NOID",
+                "PADN",
+                "SAND",
+                "APUL",
+                "DEST",
+                "HAMA",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MSHR 2020-08-10-AGAT-A-T1 7.0-A (P8102982).JPG",
+            "labels": [
+                "MALG",
+                "NOID",
+                "PMAS",
+                "REST",
+                "AMUR",
+                "SAND",
+                "DEST",
+                "SARU",
+                "DEAD",
+                "REKI",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MSHR 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "PADN",
+                "REST",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "DEST",
+                "CYAN",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MSHR 2020-08-10-AGAT-B-T4 2.0-A (P8103846).JPG",
+            "labels": [
+                "MALG",
+                "NOID",
+                "REST",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "MVER",
+                "DEST",
+                "CYAN",
+                "DICT",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MSHR 2020-08-10-AGAT-B-T5 0.5-B (P8104054).JPG",
+            "labels": [
+                "MALG",
+                "AMPH",
+                "REST",
+                "CARA",
+                "SAND",
+                "OTHR",
+                "AMUR",
+                "HALI",
+                "TAPE",
+                "DEST",
+                "CORA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER MSHR 2020-08-10-AGAT-B-T5 1.5-B (P8104052).JPG",
+            "labels": [
+                "AMUR",
+                "CARA",
+                "SAND",
+                "REST",
+                "TAPE",
+                "HALI",
+                "PCYL",
+                "DEST",
+                "PCYL-BL",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER NASC 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "SARU",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER NASC 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "PDEC",
+                "SARU",
+                "DEAD",
+                "REKI"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER NASC 2020-08-07-ADELUP-B-T3 9.5-B (P8072722).JPG",
+            "labels": [
+                "APUL-BL",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "REKI"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER NASC 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "AMUR",
+                "HALI",
+                "APUL",
+                "SARU",
+                "DEAD",
+                "REKI"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER NASC 2020-08-10-AGAT-B-T4 2.0-A (P8103846).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "AMUR",
+                "HALI",
+                "APUL",
+                "SARU",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER NBUR 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "NOID",
+                "PADN",
+                "DEST",
+                "SARU",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER NBUR 2020-08-07-ADELUP-B-T3 9.5-B (P8072722).JPG",
+            "labels": [
+                "APUL",
+                "REST",
+                "DEST",
+                "APUL-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER NBUR 2020-08-10-AGAT-A-T1 7.0-A (P8102982).JPG",
+            "labels": [
+                "MALG",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER NBUR 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER PAST 2020-08-10-AGAT-A-T1 7.0-A (P8102982).JPG",
+            "labels": [
+                "MALG",
+                "PMAS",
+                "REST",
+                "SAND",
+                "DEST",
+                "SARU",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER PAST 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "ASTA-BL",
+                "APUL-BL",
+                "NOID",
+                "MALG",
+                "PADN",
+                "REST",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER PAST 2020-08-10-AGAT-B-T4 2.0-A (P8103846).JPG",
+            "labels": [
+                "NOID",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER PAST 2020-08-10-AGAT-B-T5 0.5-B (P8104054).JPG",
+            "labels": [
+                "BRCA",
+                "MALG",
+                "NOID",
+                "AMUR",
+                "TAPE",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER RNIE 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "NOID",
+                "PADN",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER RNIE 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "PDEC",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER RNIE 2020-08-07-ADELUP-B-T5 20.0-A (P8072897).JPG",
+            "labels": [
+                "APUL-BL",
+                "NOID",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER RNIE 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "REST",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER RNIE 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER RNIE 2020-08-10-AGAT-B-T5 0.5-B (P8104054).JPG",
+            "labels": [
+                "MALG",
+                "CARA",
+                "SAND",
+                "TAPE",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER RSTA 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER RSTA 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "APUL",
+                "DEST",
+                "PDEC",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER RSTA 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "REST",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER RSTA 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "APUL-BL",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER SBUT 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER SBUT 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "PDEC",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER SBUT 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER SBUT 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "REKI",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER SYOK 2020-08-07-ADELUP-B-T5 20.0-A (P8072897).JPG",
+            "labels": [
+                "APUL-BL",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER SYOK 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PMAS",
+                "PADN",
+                "REST",
+                "AMUR",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER SYOK 2020-08-10-AGAT-A-T1 21.0-A (P8103009).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER SYOK 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "APUL-BL",
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER SYOK 2020-08-10-AGAT-B-T5 0.5-B (P8104054).JPG",
+            "labels": [
+                "MALG",
+                "CARA",
+                "SAND",
+                "TAPE",
+                "HALI",
+                "APUL",
+                "DEST",
+                "ASTA",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER XQUI 2020-06-23-ADELUP-A-T1 15.0-A (P6230529).JPG",
+            "labels": [
+                "MALG",
+                "NOID",
+                "PADN",
+                "SAND",
+                "HALI",
+                "DEST",
+                "DEAD",
+                "BOOD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER XQUI 2020-06-23-ADELUP-A-T1 24.0-A (P6230547).JPG",
+            "labels": [
+                "NOID",
+                "MALG",
+                "APUL-BL",
+                "PADN",
+                "SAND",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER XQUI 2020-06-23-ADELUP-A-T2 19.0-A (P6230646).JPG",
+            "labels": [
+                "MALG",
+                "APUL-BL",
+                "DICT",
+                "PADN",
+                "SAND",
+                "DEST",
+                "PDEC",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER XQUI 2020-08-07-ADELUP-B-T5 20.0-A (P8072897).JPG",
+            "labels": [
+                "APUL-BL",
+                "SAND",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER XQUI 2020-08-10-AGAT-A-T1 16.5-B (P8103040).JPG",
+            "labels": [
+                "PMAS",
+                "AMPH",
+                "PADN",
+                "AMUR",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER XQUI 2020-08-10-AGAT-A-T1 7.0-A (P8102982).JPG",
+            "labels": [
+                "MALG",
+                "NOID",
+                "PMAS",
+                "AMUR",
+                "SAND",
+                "DEST",
+                "CYAN",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER XQUI 2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "MALG",
+                "PADN",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "DEST",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER XQUI 2020-08-10-AGAT-B-T4 2.0-A (P8103846).JPG",
+            "labels": [
+                "APUL-BL",
+                "AMUR",
+                "SAND",
+                "HALI",
+                "APUL",
+                "DEST",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER XQUI 2020-08-10-AGAT-B-T5 0.5-B (P8104054).JPG",
+            "labels": [
+                "MALG",
+                "NOID",
+                "APUL-BL",
+                "AMPH",
+                "AMUR",
+                "CARA",
+                "SAND",
+                "HALI",
+                "TAPE",
+                "APUL",
+                "DEST",
+                "SARU",
+                "DEAD",
+                "RUBB",
+                "AMUR-BL"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "TRAINER XQUI 2020-08-10-AGAT-B-T5 1.5-B (P8104052).JPG",
+            "labels": [
+                "APUL-BL",
+                "SINU",
+                "CARA",
+                "SAND",
+                "TAPE",
+                "HALI",
+                "SINU-BL",
+                "APUL",
+                "DEST",
+                "DEAD"
+            ],
+            "date": "2021-09-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        }
+    ],
+    "info": {
+        "total_images": 203,
+        "status_counts": {
+            "healthy": 36,
+            "bleached": 167,
+            "dead": 0
+        }
+    }
+}

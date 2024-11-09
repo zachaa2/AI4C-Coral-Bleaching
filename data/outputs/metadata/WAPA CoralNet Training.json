@@ -1,0 +1,985 @@
+{
+    "data": [
+        {
+            "name": "2020-06-23-ADELUP-A-T1 15.0-A (P6230529)2.JPG",
+            "labels": [
+                "PADN",
+                "MALG",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2020-06-23",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T1 15.0-A (P6230529)3.JPG",
+            "labels": [
+                "MALG",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2020-06-23",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T1 24.0-A (P6230547)2.JPG",
+            "labels": [
+                "PADN",
+                "APUL",
+                "MALG",
+                "APUL-BL",
+                "DEAD"
+            ],
+            "date": "2020-06-23",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T1 24.0-A (P6230547)3.JPG",
+            "labels": [
+                "PADN",
+                "APUL-BL",
+                "DEAD",
+                "MALG"
+            ],
+            "date": "2020-06-23",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T1 24.0-A (P6230547)4.JPG",
+            "labels": [
+                "PADN",
+                "MALG",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2020-06-23",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T1 24.0-A KT (P6230547)4.JPG",
+            "labels": [
+                "PADN",
+                "APUL-BL",
+                "DEAD",
+                "MALG"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T1 24.0-A TB(P6230547)4.JPG",
+            "labels": [
+                "PADN",
+                "MALG",
+                "APUL-BL",
+                "NOID",
+                "DEAD"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T1 24.0-A-AP (P6230547)4.JPG",
+            "labels": [
+                "PADN",
+                "APUL",
+                "MALG",
+                "APUL-BL",
+                "NOID",
+                "DEAD"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T1 24.0-A-JP (P6230547)4.JPG",
+            "labels": [
+                "PADN",
+                "APUL-BL",
+                "DEAD",
+                "MALG"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T1 24.0-A-RS (P6230547)4.JPG",
+            "labels": [
+                "PADN",
+                "MALG",
+                "APUL-BL",
+                "DEAD",
+                "NOID"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T2 19.0-A (P6230646)3.JPG",
+            "labels": [
+                "PADN",
+                "PDEC",
+                "APUL",
+                "MALG",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2020-06-23",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T2 19.0-A KT (P6230646)4.JPG",
+            "labels": [
+                "PADN",
+                "PDEC",
+                "MALG",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T5 16.0-A (P6230968)3.JPG",
+            "labels": [
+                "PADN",
+                "MALG",
+                "APUL-BL",
+                "DEAD",
+                "CATA"
+            ],
+            "date": "2020-06-23",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T5 16.0-A-RS (P6230968)4.JPG",
+            "labels": [
+                "PADN",
+                "MALG",
+                "SARG",
+                "APUL-BL",
+                "DEAD"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-06-23-ADELUP-A-T5 24.0-A (P6230984)2.JPG",
+            "labels": [
+                "PADN",
+                "PDEC",
+                "HALI",
+                "DEAD",
+                "PDEC-BL",
+                "SARU"
+            ],
+            "date": "2020-06-23",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-07-ADELUP-B-T3 9.5-B (P8072722).JPG",
+            "labels": [
+                "APUL-BL",
+                "DEAD",
+                "APUL"
+            ],
+            "date": "2020-08-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-07-ADELUP-B-T3 9.5-B (P8072722)2.JPG",
+            "labels": [
+                "REKI",
+                "APUL-BL",
+                "APUL"
+            ],
+            "date": "2020-08-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-07-ADELUP-B-T3 9.5-B TB(P8072722)4.JPG",
+            "labels": [
+                "APUL-BL",
+                "REST",
+                "DEAD",
+                "APUL"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-07-ADELUP-B-T3 9.5-B-AP (P8072722)4.JPG",
+            "labels": [
+                "APUL",
+                "APUL-BL",
+                "DEAD",
+                "MALG"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-07-ADELUP-B-T3 9.5-Bj (P8072722)4.JPG",
+            "labels": [
+                "APUL-BL",
+                "REST",
+                "DEAD",
+                "APUL"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-07-ADELUP-B-T5 20.0-A (P8072897)2.JPG",
+            "labels": [
+                "APUL",
+                "REKI",
+                "REST",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2020-08-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-07-ADELUP-B-T5 20.0-Ad (P8072897)4.JPG",
+            "labels": [
+                "MALG",
+                "APUL",
+                "APUL-BL",
+                "DEAD",
+                "REST",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-07-ADELUP-B-T5 21.5-B (P8072923)2.JPG",
+            "labels": [
+                "APUL-BL",
+                "REST",
+                "DEAD",
+                "APUL"
+            ],
+            "date": "2020-08-07",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 16.5-B (P8103040)2.JPG",
+            "labels": [
+                "DICT",
+                "PMAS-BL",
+                "MALG",
+                "APUL",
+                "REST",
+                "APUL-BL",
+                "DEAD",
+                "PMAS"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 16.5-B (P8103040)3.JPG",
+            "labels": [
+                "APUL",
+                "MALG",
+                "REST",
+                "APUL-BL",
+                "DEAD",
+                "PMAS",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 16.5-B (llP8103040)4.JPG",
+            "labels": [
+                "PADN",
+                "PMAS-BL",
+                "MALG",
+                "APUL",
+                "REST",
+                "APUL-BL",
+                "DEAD",
+                "PMAS"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 16.5-B TB(P8103040)4.JPG",
+            "labels": [
+                "PADN",
+                "MALG",
+                "APUL",
+                "REST",
+                "APUL-BL",
+                "DEAD",
+                "PMAS",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 16.5-B-JP (P8103040)4.JPG",
+            "labels": [
+                "PADN",
+                "MALG",
+                "APUL",
+                "REST",
+                "APUL-BL",
+                "DEAD",
+                "PMAS"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 16.5-B-RS (P8103040)4.JPG",
+            "labels": [
+                "MALG",
+                "APUL",
+                "REST",
+                "APUL-BL",
+                "DEAD",
+                "PMAS",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 21.0-A (P8103009)3.JPG",
+            "labels": [
+                "PADN",
+                "AMUR",
+                "MALG",
+                "AMUR-BL",
+                "HALI",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 21.0-A-AP (P8103009)4.JPG",
+            "labels": [
+                "PADN",
+                "AMUR",
+                "DICT",
+                "MALG",
+                "APUL",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 21.0-A-RS (P8103009)4.JPG",
+            "labels": [
+                "PADN",
+                "MALG",
+                "APUL",
+                "REKI",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 7.0'A (P8102982)4.JPG",
+            "labels": [
+                "AMUR",
+                "MALG",
+                "AMUR-BL",
+                "DEAD",
+                "PMAS",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 7.0-A (P8102982).JPG",
+            "labels": [
+                "AMUR",
+                "PMAS-BL",
+                "MALG",
+                "AMUR-BL",
+                "DEAD",
+                "PMAS",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 7.0-A (P8102982)2.JPG",
+            "labels": [
+                "AMUR",
+                "DICT",
+                "MALG",
+                "REKI",
+                "AMUR-BL",
+                "REST",
+                "DEAD",
+                "PMAS",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 7.0-A (P8102982)3.JPG",
+            "labels": [
+                "AMUR",
+                "MALG",
+                "AMUR-BL",
+                "REST",
+                "DEAD",
+                "PMAS",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 7.0-A TB (P8102982)4.JPG",
+            "labels": [
+                "AMUR",
+                "MALG",
+                "AMUR-BL",
+                "DEAD",
+                "PMAS",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-A-T1 7.0-A-RS (P8102982)4.JPG",
+            "labels": [
+                "AMUR",
+                "MALG",
+                "AMPH",
+                "AMUR-BL",
+                "DEAD",
+                "PMAS",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T1 7.0-A (P8103531).JPG",
+            "labels": [
+                "AMUR",
+                "PADN",
+                "APUL",
+                "MALG",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T1 7.0-A (P8103531)2.JPG",
+            "labels": [
+                "AMUR",
+                "PADN",
+                "APUL",
+                "MALG",
+                "REKI",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "REST",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T1 7.0-A (P8103531)3.JPG",
+            "labels": [
+                "AMUR",
+                "PADN",
+                "APUL",
+                "MALG",
+                "REKI",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "REST",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T1 7.0-A TB(P8103531)4.JPG",
+            "labels": [
+                "AMUR",
+                "PADN",
+                "APUL",
+                "MALG",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T1 7.0-A-AP (P8103531)4.JPG",
+            "labels": [
+                "AMUR",
+                "PADN",
+                "APUL",
+                "MALG",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T1 7.0-A-JP (P8103531)4.JPG",
+            "labels": [
+                "AMUR",
+                "PADN",
+                "APUL",
+                "MALG",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T1 7.0-A-RS (P8103531)4.JPG",
+            "labels": [
+                "AMUR",
+                "PADN",
+                "APUL",
+                "MALG",
+                "REKI",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T1 7.0-Aj (P8103531)4.JPG",
+            "labels": [
+                "AMUR",
+                "PADN",
+                "APUL",
+                "MALG",
+                "HALI",
+                "APUL-BL",
+                "REST",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T4 2.0-A (P8103846).JPG",
+            "labels": [
+                "AMUR",
+                "MALG",
+                "APUL",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T4 2.0-A (P8103846)2.JPG",
+            "labels": [
+                "AMUR",
+                "DICT",
+                "APUL",
+                "MALG",
+                "AMUR-BL",
+                "APUL-BL",
+                "DEAD",
+                "REST",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T4 2.0-A (P8103846)3.JPG",
+            "labels": [
+                "PADN",
+                "AMUR",
+                "APUL",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "REST",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T4 2.0-A TB(P8103846)4.JPG",
+            "labels": [
+                "AMUR",
+                "APUL",
+                "MALG",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T4 2.0-A-RS (P8103846)4.JPG",
+            "labels": [
+                "AMUR",
+                "APUL",
+                "MALG",
+                "REKI",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "REST",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T4 2.0-j(P8103846)4.JPG",
+            "labels": [
+                "AMUR",
+                "APUL",
+                "MALG",
+                "AMUR-BL",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "REST",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T5 0.5-B (P8104054)2.JPG",
+            "labels": [
+                "DICT",
+                "MALG",
+                "APUL",
+                "AMPH",
+                "CARA",
+                "AMUR-BL",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "REST",
+                "TAPE",
+                "CYAN",
+                "CORA",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T5 0.5-B (P8104054)3.JPG",
+            "labels": [
+                "DICT",
+                "APUL",
+                "MALG",
+                "HALI",
+                "APUL-BL",
+                "REST",
+                "DEAD",
+                "CATA",
+                "NOID",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T5 0.5-B-RS2 (P8104054)4.JPG",
+            "labels": [
+                "MALG",
+                "APUL",
+                "REKI",
+                "AMPH",
+                "HALI",
+                "APUL-BL",
+                "DEAD",
+                "CAUL",
+                "CYAN",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T5 0.5-j(P8104054)4.JPG",
+            "labels": [
+                "MALG",
+                "APUL",
+                "AMPH",
+                "CARA",
+                "HALI",
+                "APUL-BL",
+                "REST",
+                "DEAD",
+                "TAPE",
+                "CYAN",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T5 1.5-B (P8104052).JPG",
+            "labels": [
+                "AMUR",
+                "MALG",
+                "APUL",
+                "AMUR-BL",
+                "APUL-BL",
+                "DEAD",
+                "TAPE",
+                "PCYL",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T5 1.5-B (P8104052)2.JPG",
+            "labels": [
+                "AMUR",
+                "MALG",
+                "APUL",
+                "REKI",
+                "CARA",
+                "AMUR-BL",
+                "APUL-BL",
+                "DEAD",
+                "REST",
+                "TAPE",
+                "PCYL",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T5 1.5-B (P8104052)3.JPG",
+            "labels": [
+                "AMUR",
+                "MALG",
+                "APUL",
+                "CARA",
+                "HALI",
+                "REST",
+                "APUL-BL",
+                "NOID",
+                "AHUM",
+                "PCYL",
+                "SARU"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T5 1.5-BTB (P8104052)4.JPG",
+            "labels": [
+                "AMUR",
+                "APUL",
+                "MALG",
+                "APUL-BL",
+                "DEAD",
+                "TAPE",
+                "PCYL",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T5 1.5-Bj (P8104052)4.JPG",
+            "labels": [
+                "AMUR",
+                "MALG",
+                "APUL",
+                "REKI",
+                "CARA",
+                "AMUR-BL",
+                "HALI",
+                "APUL-BL",
+                "REST",
+                "DEAD",
+                "TAPE",
+                "PCYL",
+                "SARU"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T5 5.5-B (P8104044)2.JPG",
+            "labels": [
+                "PADN",
+                "MALG",
+                "APUL",
+                "AMPH",
+                "APUL-BL",
+                "DEAD"
+            ],
+            "date": "2020-08-10",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T5 5.5-B TB(P8104044)4.JPG",
+            "labels": [
+                "PADN",
+                "CHFR",
+                "MALG",
+                "APUL",
+                "AMPH",
+                "REST",
+                "DEAD",
+                "APUL-BL"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        },
+        {
+            "name": "2020-08-10-AGAT-B-T5 5.5-Bj (P8104044)4.JPG",
+            "labels": [
+                "PADN",
+                "CHFR",
+                "MALG",
+                "APUL",
+                "AMPH",
+                "REST",
+                "DEAD",
+                "APUL-BL"
+            ],
+            "date": "2023-05-01",
+            "status": "bleached",
+            "location": "Pacific National Historical Park, Guam"
+        }
+    ],
+    "info": {
+        "total_images": 64,
+        "status_counts": {
+            "healthy": 0,
+            "bleached": 64,
+            "dead": 0
+        }
+    }
+}
