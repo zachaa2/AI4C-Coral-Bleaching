@@ -137,7 +137,7 @@ def train_model(args):
 
     # Save the model
     torch.save(model.state_dict(), "resnet50_coral.pth")
-    print("Model and splits saved.")
+    print("Model saved.")
 
 
 def evaluate_model():
@@ -208,7 +208,9 @@ def evaluate_model():
     plt.xlabel("Predicted Labels")
     plt.ylabel("True Labels")
     plt.title("Confusion Matrix")
+    plt.savefig("./images/conf_matrix_resnet.png")
     plt.show()
+    plt.close()
 
 
 
