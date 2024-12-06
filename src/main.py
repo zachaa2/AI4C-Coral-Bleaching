@@ -86,8 +86,7 @@ def train_model(args):
 
     # Paths and sources
     root_dir = "../data/outputs/images"
-    sources = ["WAPA Interns", "WAPA CoralNet Training", "WAPA Coral Inventory 2.0", 
-               "CuraCao Coral Reef Assessment 2023 CUR", "Curacao Coral Reef Assessment 2023 ARU", "Altieri Biscayne Bay"]
+    sources = ["CuraCao Coral Reef Assessment 2023 CUR"]
 
     # Data transforms
     data_transforms = transforms.Compose([
@@ -98,11 +97,11 @@ def train_model(args):
 
     # Split dataset
     train_dataset, val_dataset, test_dataset = split_dataset(
-        root=root_dir, coralnet_sources=sources, transform=data_transforms
+        root=root_dir, coralnet_sources=sources, train_ratio=0.6, val_ratio=0.15, test_ratio=0.25, transform=data_transforms
     )
 
     # Save splits for later evaluation
-    save_splits(train_dataset, val_dataset, test_dataset, "dataset_splits.pkl")
+    save_splits(train_dataset, val_dataset, test_dataset, "dataset_splits_cur.pkl")
     print("Saved train/val/test splits...")
 
     # Data loaders
@@ -136,7 +135,7 @@ def train_model(args):
         print(f"Epoch Duration: {epoch_duration:.2f} seconds")
 
     # Save the model
-    torch.save(model.state_dict(), "resnet50_coral.pth")
+    torch.save(model.state_dict(), "resnet50_coral_cur.pth")
     print("Model saved.")
 
 
@@ -146,7 +145,7 @@ def evaluate_model():
     print(f"Using device: {device}")
 
     # Load saved splits
-    _, _, test_dataset = load_splits("dataset_splits.pkl")
+    _, _, test_dataset = load_splits("dataset_splits_cur.pkl")
     print("Loaded splits successfully...")
 
     # Data loader for the test set
@@ -158,7 +157,7 @@ def evaluate_model():
     num_features = model.fc.in_features
     model.fc = nn.Linear(num_features, num_classes)
 
-    model.load_state_dict(torch.load("resnet50_coral.pth", map_location=device))
+    model.load_state_dict(torch.load("resnet50_coral_cur.pth", map_location=device))
     model = model.to(device)
     print("Loaded model successfully...")
 
@@ -196,7 +195,7 @@ def evaluate_model():
     print(f"Test Loss: {test_loss:.4f}, Test Accuracy: {test_acc:.4f}")
 
     # Generate confusion matrix
-    class_names = ["healthy", "bleached", "dead"]
+    class_names = ["healthy", "bleached"]
     cm = confusion_matrix(y_true, y_pred, labels=range(len(class_names)))
 
     print("\nClassification Report:")
@@ -208,7 +207,7 @@ def evaluate_model():
     plt.xlabel("Predicted Labels")
     plt.ylabel("True Labels")
     plt.title("Confusion Matrix")
-    plt.savefig("./images/conf_matrix_resnet.png")
+    plt.savefig("./images/conf_matrix_resnet_cur.png")
     plt.show()
     plt.close()
 

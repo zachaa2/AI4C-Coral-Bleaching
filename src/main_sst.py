@@ -87,7 +87,7 @@ def plot_confusion_matrix(y_true, y_pred, class_names):
     plt.xlabel("Predicted")
     plt.ylabel("True")
     plt.title("Confusion Matrix")
-    plt.savefig("./images/conf_matrix_resnet_sst.png")
+    plt.savefig("./images/conf_matrix_resnet_sst_cur.png")
     plt.show()
     plt.close()
 
@@ -99,8 +99,7 @@ def train_model(args):
 
     # Paths and sources
     root_dir = "../data/outputs/images"
-    sources = ["WAPA Interns", "WAPA CoralNet Training", "WAPA Coral Inventory 2.0", 
-               "CuraCao Coral Reef Assessment 2023 CUR", "Curacao Coral Reef Assessment 2023 ARU", "Altieri Biscayne Bay"]
+    sources = ["CuraCao Coral Reef Assessment 2023 CUR"]
 
     # Data transforms
     data_transforms = transforms.Compose([
@@ -111,11 +110,11 @@ def train_model(args):
 
     # Split dataset
     train_dataset, val_dataset, test_dataset = split_dataset_with_sst(
-        root=root_dir, coralnet_sources=sources, transform=data_transforms
+        root=root_dir, coralnet_sources=sources, train_ratio=0.6, val_ratio=0.15, test_ratio=0.25, transform=data_transforms
     )
 
     # Save splits
-    save_splits(train_dataset, val_dataset, test_dataset, "sst_dataset_splits.pkl")
+    save_splits(train_dataset, val_dataset, test_dataset, "sst_dataset_splits_cur.pkl")
     print("Saved train/val/test splits...")
 
     # Data loaders
@@ -148,7 +147,7 @@ def train_model(args):
         print(f"Epoch Duration: {epoch_duration:.2f} seconds")
 
     # Save the model
-    torch.save(model.state_dict(), "resnet50_sst_coral.pth")
+    torch.save(model.state_dict(), "resnet50_sst_coral_cur.pth")
     print("Model saved.")
 
 
@@ -157,7 +156,7 @@ def evaluate_model():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     # Load saved splits
-    _, _, test_dataset = load_splits("sst_dataset_splits.pkl")
+    _, _, test_dataset = load_splits("sst_dataset_splits_cur.pkl")
     print("Loaded splits successfully...")
 
     # Data loader for the test set
@@ -166,7 +165,7 @@ def evaluate_model():
     # Load the trained model
     num_classes = len(test_dataset.label_map)
     model = CoralBleachingModel(num_classes=num_classes)
-    model.load_state_dict(torch.load("resnet50_sst_coral.pth", map_location=device))
+    model.load_state_dict(torch.load("resnet50_sst_coral_cur.pth", map_location=device))
     model = model.to(device)
     print("Loaded model successfully...")
 
@@ -203,7 +202,7 @@ def evaluate_model():
     print(f"Test Loss: {test_loss:.4f}, Test Accuracy: {test_acc:.4f}")
 
     # Classification report and confusion matrix
-    class_names = ["healthy", "bleached", "dead"]
+    class_names = ["healthy", "bleached"]
     print("\nClassification Report:")
     print(classification_report(y_true, y_pred, target_names=class_names))
     plot_confusion_matrix(y_true, y_pred, class_names)
