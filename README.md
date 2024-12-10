@@ -20,12 +20,19 @@ The results from the regression model are at data/SST_Regression_Results.ipynb.
 # Pytorch Class
 
 Initial script is pytorch_class.ipynb, creating custom Class. It also includes a baseline, CNN, training in it.
+
 denseNet.ipynb is modified on it for training.
+
 Then dataset.py, main.py, models.py are created and modified.
+
 
 # denseNet model
 
 notebook script is at src/denseNet.ipynb
+
 denseNet121 needed to be imported:
+
     from torchvision.models import DenseNet121_Weights
+
     model = models.densenet121(weights=DenseNet121_Weights.DEFAULT)
+
