@@ -8,6 +8,11 @@ python3 data/outputs/add_coralreefwatch_location_to_csv.py
 
 This will add a field SST@90th_HS with the 90th percentile SST data based on the date to all metadata.csv files in the images directory.
 
+# EDA
+
+The noteboom for EDA is at data/EDA.ipynb.
+
+
 # Regression model
 
 The notebook for the regression model is at data/outputs/Regression.ipynb.
@@ -36,3 +41,7 @@ denseNet121 needed to be imported:
 
     model = models.densenet121(weights=DenseNet121_Weights.DEFAULT)
 
+# Yolo v5
+Model was cloned from https://github.com/ultralytics/yolov5/.
+Mannually labeled bounding box data at data/yolo labels
+yolo validation results at data/yolo result
