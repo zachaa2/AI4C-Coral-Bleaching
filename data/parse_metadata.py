@@ -11,7 +11,7 @@ SCRIPT PARAMS:
     FILE_PATH - path to the metadata CSV file obtained from CoralNet images page
     HEALTHY_CODES_PATH - path to the txt file with all the label short codes for healthy hard coral (non bleached or dead)
     BLEACHED_CODES_PATH - path to the txt file with all the label short codes for bleached coral
-    DEAD_CODES_PATH - path to the txt fule with all the label short codes for dead corals
+    DEAD_CODES_PATH - path to the txt file with all the label short codes for dead corals
 '''
 
 # change these when parsing each source
