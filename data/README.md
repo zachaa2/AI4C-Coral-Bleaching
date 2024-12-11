@@ -1,6 +1,6 @@
 # Data for Coral Bleaching Project
 
-The scripts require the dependencies outlines in ```requirements.txt```. Good practice is to create a virtual enviornment and instal the dependencies there. 
+The scripts require the dependencies outlines in ```requirements.txt```. Good practice is to create a virtual enviornment and install the dependencies there. 
 
 The following scripts are the tools developed and used to collect the CoralNet data and corresponding annotations.
 
